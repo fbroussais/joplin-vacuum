@@ -1,0 +1,13 @@
+*__pycache__*
+.ipynb_checkpoints
+extras
+secret.py
+*secret.yaml
+*.log
+virtualenv
+.vscode
+*.~lock.*
+venv
+*.sqlite
+.codegpt
+script/*
